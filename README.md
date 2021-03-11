@@ -5,4 +5,4 @@ I had problems compiling because I added 'PupperCoin' as an inherited contract, 
 In the new PupperCoinSale list the parameters as they are in order on the PupperSale contract. List the represented value of the open and close times. 
 
 Ultimately, the code did compile but I could not get my contract to deploy, however I took a screenshot of the Deploy & Transactions tab in Remix. 
-![deploy](../images/deploy pane.png)
+![deploy](/images/deploy pane.png)
